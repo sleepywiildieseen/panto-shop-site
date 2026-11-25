@@ -54,5 +54,5 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone <https://github.com/sleepywiildieseen/panto-shop-site.git>
+git clone https://github.com/sleepywiildieseen/panto-shop-site.git panto
 cd panto
