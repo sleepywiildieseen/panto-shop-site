@@ -1,0 +1,63 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.venv/
+ENV/
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# Node / React / Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vite/
+
+# Переменные окружения и секреты
+.env
+.env.local
+.env.*.local
+server/.env
+client/.env
+
+# Редакторы и ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Тестирование и кэш
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Прочее
+*.bak
+*.tmp
